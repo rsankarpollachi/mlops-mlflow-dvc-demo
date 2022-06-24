@@ -1,6 +1,6 @@
 action: GLOB, msg: packaging
-cwd: /home/c17hawke/Desktop/MLOPS/DEMO/new/simple_app
-cmd: /home/c17hawke/anaconda3/envs/wineq/bin/python setup.py sdist --formats=zip --dist-dir .tox/dist
+cwd: /home/ubuntu/Desktop/MLOPS/DEMO/new/simple_app
+cmd: /home/ubuntu/anaconda3/envs/wineq/bin/python setup.py sdist --formats=zip --dist-dir .tox/dist
 running sdist
 running egg_info
 writing src.egg-info/PKG-INFO
